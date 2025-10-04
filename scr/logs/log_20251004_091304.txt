@@ -1,0 +1,7 @@
+2025-10-04 09:13:04,127 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/data_population_world.csv
+2025-10-04 09:13:04,127 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/data_population_world.csv
+2025-10-04 09:13:04,140 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/metadata_countries.csv
+2025-10-04 09:13:04,140 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/metadata_countries.csv
+2025-10-04 09:13:04,145 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/country_list.csv
+2025-10-04 09:13:04,145 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/country_list.csv
+2025-10-04 09:13:04,209 - ERROR - Error al ejecutar el proceso ETL Ejecutar: No module named 'openpyxl'

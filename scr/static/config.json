@@ -1,0 +1,9 @@
+{
+    "archivos": [
+
+        "D:/ITM_ETL/2024_02/src/data/data_population_world.csv",
+        "D:/ITM_ETL/2024_02/src/data/metadata_countries.csv",
+        "D:/ITM_ETL/2024_02/src/data/country_list.csv"
+    ],
+    "tabla": "data_population_world"
+}

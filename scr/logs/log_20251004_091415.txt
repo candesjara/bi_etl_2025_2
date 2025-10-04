@@ -1,0 +1,8 @@
+2025-10-04 09:14:15,832 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/data_population_world.csv
+2025-10-04 09:14:15,832 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/data_population_world.csv
+2025-10-04 09:14:15,838 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/metadata_countries.csv
+2025-10-04 09:14:15,838 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/metadata_countries.csv
+2025-10-04 09:14:15,839 - INFO - Intentar cargar la ruta D:/ITM_ETL/2024_02/src/data/country_list.csv
+2025-10-04 09:14:15,839 - INFO - valida extension  .csv D:/ITM_ETL/2024_02/src/data/country_list.csv
+2025-10-04 09:14:18,035 - INFO - Tabla data_population_world no existe. Creando tabla...
+2025-10-04 09:14:18,129 - INFO - Tabla data_population_world creada exitosamente.
